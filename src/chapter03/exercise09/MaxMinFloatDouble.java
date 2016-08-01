@@ -10,7 +10,7 @@ public class MaxMinFloatDouble {
         System.out.println(expMaxFloat);
 
         double expMinDouble = -4.9e-324;
-        double expMaxDouble = 1.7е+308;
+        double expMaxDouble = 1.7e+308;
         System.out.println(expMinDouble);
         System.out.println(expMaxDouble);
     }
