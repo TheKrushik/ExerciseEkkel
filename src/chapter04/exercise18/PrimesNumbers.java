@@ -1,6 +1,6 @@
 package chapter04.exercise18;
 
-public class ForFor {
+public class PrimesNumbers {
     public static void main(String[] args) {
         int number = 100;
 
